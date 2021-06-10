@@ -29,6 +29,4 @@ During the course of Gama I developed some projects.
 
 # Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=srtakatsumi&show_icons=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srtakatsumi&layout=compact&langs_count=10)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=srtakatsumi&show_icons=true) ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srtakatsumi&layout=compact&langs_count=10)
