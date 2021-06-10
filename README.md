@@ -1,4 +1,4 @@
-# Sobre
+# Quem eu sou?
 
 Sou uma desenvolvedora em formação pela Gama Academy, adquiri conhecimentos relacionados a Inovação e Métodos Ágeis. Ainda não possuo experiencia como desenvolvedora, porém estou 
 estou buscando aprofundar minha carreira como desenvolvedora full-stack com algumas habilidades como ReactJS, nodeJS, javascript, python e alguns projetos github que foram desenvolvidos durante os <a href="https://github.com/srtakatsumi/Gamma_Challenge">cursos.</a>
@@ -12,7 +12,7 @@ Durante o curso da Gama desenvolvi alguns projetos.
 • <a href="https://github.com/srtakatsumi/calculadora-Python">Nos cursos que realizei aprendi a fazer aplicações simples em python</a>
 
 
-# About
+# Who am I?
 
 I am a developer in training by Gama Academy, I acquired knowledge related to Innovation and Agile Methods. I still don't have experience as a developer, but I'm
 I'm looking to further my career as a full-stack developer with skills like ReactJS, nodeJS, javascript, python and some github projects that were developed during the <a href="https://github.com/srtakatsumi/Gamma_Challenge"> courses. </a>
