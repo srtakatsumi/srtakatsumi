@@ -53,17 +53,17 @@ O Gama XP é um bootcamp intensivo com duração de 4 messes, com foco tanto nas
 - [x] Módulo - Gerenciamento de erros
 - [x] Módulo - Buffer e Streams
 - [x] Módulo - Consumo de API terceiras <br>
-- [x] Módulo 5 - Conteúdos de soft Skills e carreiras
-               - Gestão de tempo
-- [x] Módulo 6 - Conteúdos de soft Skills e carreiras
-               - Feedback
-- [x] Módulo 7 - Conteúdos de soft Skills e carreiras
-               - Produtividade
-- [x] Módulo 8 - Conteúdos de soft Skills e carreiras
-               - Boas vindas
-               - Criative-se!
-               - Como nascem as boas ideias?
-               - Empatia genuína
+- [x] Módulo 5 - Conteúdos de soft Skills e carreiras<br>
+               - Gestão de tempo<br>
+- [x] Módulo 6 - Conteúdos de soft Skills e carreiras<br>
+               - Feedback<br>
+- [x] Módulo 7 - Conteúdos de soft Skills e carreiras<br>
+               - Produtividade<br>
+- [x] Módulo 8 - Conteúdos de soft Skills e carreiras<br>
+               - Boas vindas<br>
+               - Criative-se!<br>
+               - Como nascem as boas ideias?<br>
+               - Empatia genuína<br>
           
 
 <hr>
