@@ -12,7 +12,7 @@ O Gama XP é um bootcamp intensivo com duração de 4 messes, com foco tanto nas
 ![Logo do Markdown](https://i.imgur.com/v4kkfNO.png)
 
 - [x] Mês 1 - Essencial Skills (25/04 a  22/05)
-- [ ] Mês 2 - Back-end (23/05 a 19/06)
+- [x] Mês 2 - Back-end (23/05 a 19/06)
 - [ ] Mês 3 - Front End (20/06 a 17/07)
 - [ ] Mês 4 - Diferenciais (18/07 a 14/08)
 
