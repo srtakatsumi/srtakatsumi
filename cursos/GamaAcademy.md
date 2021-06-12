@@ -11,12 +11,12 @@ O Gama XP é um bootcamp intensivo com duração de 4 messes, com foco tanto nas
 # Cronograma
 ![Logo do Markdown](https://i.imgur.com/v4kkfNO.png)
 
-- [ ] Mês 1 - Essencial Skills (25/04 a  22/05)
+- [x] Mês 1 - Essencial Skills (25/04 a  22/05)
 - [ ] Mês 2 - Back-end (23/05 a 19/06)
 - [ ] Mês 3 - Front End (20/06 a 17/07)
 - [ ] Mês 4 - Diferenciais (18/07 a 14/08)
 
-# Modúlos
+# Módulos
 ============
 
 #Mês 1 - Essencial Skills#
@@ -45,38 +45,49 @@ O Gama XP é um bootcamp intensivo com duração de 4 messes, com foco tanto nas
 <hr>
 
 #Mês 2 - Back-end#
-- [ ] Modúlo - Fundamentos de Node
-- [ ] Modúlo - Segurança na Web
-- [ ] Modúlo - HTTP GET e HTTP POST
-(Arquitetura WEB)
-- [ ] Modúlo - Criando uma REST API
-- [ ] Modúlo - Criando Banco de Dados
-com MySQL
-- [ ] Modúlo - Gerenciamento de erros
-- [ ] Modúlo - Buffer e Streams
-- [ ] Modúlo - Consumo de API terceiras
+- [X] Módulo - Fundamentos de Node
+- [X] Módulo - Segurança na Web
+- [x] Módulo - HTTP GET e HTTP POST(Arquitetura WEB)
+- [x] Módulo - Criando uma REST API
+- [x] Módulo - Criando Banco de Dadoscom MySQL
+- [x] Módulo - Gerenciamento de erros
+- [x] Módulo - Buffer e Streams
+- [x] Módulo - Consumo de API terceiras <br>
+- [x] Módulo 5 - Conteúdos de soft Skills e carreiras
+               - Gestão de tempo
+- [x] Módulo 6 - Conteúdos de soft Skills e carreiras
+               - Feedback
+- [x] Módulo 7 - Conteúdos de soft Skills e carreiras
+               - Produtividade
+- [x] Módulo 8 - Conteúdos de soft Skills e carreiras
+               - Boas vindas
+               - Criative-se!
+               - Como nascem as boas ideias?
+               - Empatia genuína
+          
 
 <hr>
 
 #Mês 3 - Front-end# 
-- [ ] Modúlo - HTML
-- [ ] Modúlo - CSS
-- [ ] Modúlo - Bootstrap e Material
-- [ ] Modúlo - Design
-- [ ] Modúlo - TypeScript
-- [ ] Modúlo - Javascript avançado
-- [ ] Modúlo - React
+- [ ] Módulo - HTML
+- [ ] Módulo - CSS
+- [ ] Módulo - Bootstrap e Material
+- [ ] Módulo - Design
+- [ ] Módulo - TypeScript
+- [ ] Módulo - Javascript avançado
+- [ ] Módulo - React
+
 
 <hr>
 
 #Mês 4 - - Diferenciais#
-- [ ] Modúlo - Cultura DevOps
-- [ ] Modúlo - Jenkings e Docker
-- [ ] Modúlo - Kubernetes
-- [ ] Modúlo - Conceitos básicos de Azure
-- [ ] Modúlo - Conceitos básicos de AWS
-- [ ] Modúlo - React Native
-- [ ] Modúlo - NoSQL
+- [ ] Módulo - Cultura DevOps
+- [ ] Módulo - Jenkings e Docker
+- [ ] Módulo - Kubernetes
+- [ ] Módulo - Conceitos básicos de Azure
+- [ ] Módulo - Conceitos básicos de AWS
+- [ ] Módulo - React Native
+- [ ] Módulo - NoSQL
 
 <hr>
 
