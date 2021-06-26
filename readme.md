@@ -28,4 +28,16 @@ During the course of Gama I developed some projects. <br>
 
 # Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=srtakatsumi&show_icons=true) ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srtakatsumi&layout=compact&langs_count=10)
+
+ <div  align="center">
+ <a href="https://github.com/srtakatsumi"></a>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srtakatsumi&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=srtakatsumi&hide_border=true&theme=nightowl&show_icons=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakatsumi&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
+</div>
+
+
+<details>
+  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
+
+![Metrics](https://metrics.lecoq.io/srtakatsumi?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
