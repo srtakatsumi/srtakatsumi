@@ -6,7 +6,7 @@ Tenho 2 anos de experiência como assistente de e-commerce, o que me permitiu te
 
 Durante o curso da Gama desenvolvi alguns projetos.<br>
 • Uma <a href="https://github.com/srtakatsumi/API-ecom">api para e-commerce</a> <br>
-• <a href="https://github.com/srtakatsumi/Gamma_Challenge">Desenvolveer um banco de dedos e popular</a> <br>
+• <a href="https://github.com/srtakatsumi/Gamma_Challenge">Desenvolver um banco de dedos e popular</a> <br>
 
 • <a href="https://github.com/srtakatsumi/calculadora-Python">Nos cursos que realizei aprendi a fazer aplicações simples em python</a>
 
