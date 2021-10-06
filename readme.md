@@ -36,10 +36,8 @@ During the course of Gama I developed some projects. <br>
  <div  align="center">
  <a href="https://github.com/srtakatsumi"></a>
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srtakatsumi&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=srtakatsumi&hide_border=true&theme=nightowl&show_icons=true"/>
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakatsumi&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
 </div>
-
 
 
 <div>
