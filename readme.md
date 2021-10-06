@@ -25,6 +25,10 @@ During the course of Gama I developed some projects. <br>
 
 • <a href="https://github.com/srtakatsumi/calculadora-Python"> In the courses they take I learned to make simple applications in python </a>
 
+<div> 
+  <a href = "mailto:vic.gabriella.c@gmail.com"><img src="https://img.shields.io/badge/gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victoriagcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+</div>
 
 # Estatísticas
 
@@ -37,10 +41,8 @@ During the course of Gama I developed some projects. <br>
 </div>
 
 
-<div> 
-  <a href = "mailto:victoria.costa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victoriagcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 
+<div>
  
   ![Snake animation](https://raw.githubusercontent.com/srtakatsumi/snk/output/github-contribution-grid-snake.svg)
  
