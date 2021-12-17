@@ -1,8 +1,8 @@
 # Quem eu sou?
 
-Sou desenvolvedora formada pela Gama Academy, adquiri conhecimentos relacionados à Inovação e Métodos Ágeis. Ainda não possuo experiencia como desenvolvedora, porém estou buscando aprofundar minha carreira como desenvolvedora back-end com algumas habilidades como ReactJS, nodeJS, javascript, python e alguns projetos github que foram desenvolvidos durante os cursos.
+Sou uma cientista de dados e trabalho a 1 ano como analista de dados júnior na Riachuelo onde faço aquisição de dados de diversas fontes (SQL, CSV, Excel, PowerBi, SAP), processamento, análise e geração de relatórios gerenciais. Sou formada pela Gama Academy onde adquiri conhecimentos relacionados à Inovação e Métodos Ágeis. Além disso, tenho 2 anos de experiência como assistente de e-commerce, o que me permitiu ter uma visão mais ampla das métricas que são importantes para o negócio além dos principais indicadores de negócio.
 
-Tenho 2 anos de experiência como assistente de e-commerce, o que me permitiu ter uma visão mais ampla de como um e-commerce trabalha, permitindo-me perceber de forma mais clara mlhorias significativas em seus desempenhos e praticidade. Dessa forma, decidir a escolha da minha mudança de área e acredito que posso contribuir mais nessa linha de desenvolvimento.
+Hoje estou buscando evoluir minha carreira na área de análise de dados com algumas habilidades relacionadas a estatísticas, bancos de dados e me aprofundando nos frameworks Python, Pandas e SKlearn. Pretendo começar a trabalhar na área de big data e machine learning no futuro.
 
 Durante o curso da Gama desenvolvi alguns projetos.<br>
 • Uma <a href="https://github.com/srtakatsumi/API-ecom">api para e-commerce</a> <br>
@@ -13,10 +13,9 @@ Durante o curso da Gama desenvolvi alguns projetos.<br>
 
 # Who am I?
 
-I am a developer graduated by Gama Academy, I acquired knowledge related to Innovation and Agile Methods. I still don't have experience as a developer, but
-I'm looking to further my career as a  back-end developer with skills like ReactJS, nodeJS, javascript, python and some github projects that were developed during the courses. 
+I'm a data scientist and I've been working for 1 year as a junior data analyst at Riachuelo where I do data acquisition from different sources (SQL, CSV, Excel, PowerBi, SAP), processing, analysis and generation of management reports. I graduated from Gama Academy where I acquired knowledge related to Innovation and Agile Methods. Furthermore, I have 2 years of experience as an e-commerce assistant, which allowed me to have a broader view of the metrics that are important to the business in addition to the main business indicators.
 
-I have 2 years of experience as an e-commerce assistant, which accompanies me having a broader view of how an e-commerce works, allowing me to see more clearly relevant improvements in its performance and practicality. In this way, I decided to choose my area change and I believe I can contribute more in this line of development.
+Today I am looking to evolve my career in the data analysis area with some skills related to statistics, databases and delving into Python, Pandas and SKlearn frameworks. I intend to start working in the area of big data and machine learning in the future.
 
 
 During the course of Gama I developed some projects. <br>
