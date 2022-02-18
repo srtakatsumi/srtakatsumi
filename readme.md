@@ -1,8 +1,8 @@
 # Quem eu sou?
 
-Sou uma cientista de dados e trabalho a 1 ano como analista de dados júnior na Riachuelo onde faço aquisição de dados de diversas fontes (SQL, CSV, Excel, PowerBi, SAP), processamento, análise e geração de relatórios gerenciais. Sou formada pela Gama Academy onde adquiri conhecimentos relacionados à Inovação e Métodos Ágeis. Além disso, tenho 2 anos de experiência como assistente de e-commerce, o que me permitiu ter uma visão mais ampla das métricas que são importantes para o negócio além dos principais indicadores de negócio.
+Sou uma cientista de dados, formada pela Gama Academy em Inovação e Métodos Ágeis. Atuo como analista de dados a mais de 1 ano, onde faço aquisição de dados de diversas fontes (SQL, CSV, Excel, PowerBi, SAP), processamento, análise e geração de relatórios gerenciais. Também tenho 2 anos de experiência como assistente de e-commerce, o que me permitiu ter uma visão mais ampla das métricas que são importantes para o negócio além dos principais indicadores.
 
-Hoje estou buscando evoluir minha carreira na área de análise de dados com algumas habilidades relacionadas a estatísticas, bancos de dados e me aprofundando nos frameworks Python, Pandas e SKlearn. Pretendo começar a trabalhar na área de big data e machine learning no futuro.
+Hoje, estou buscando evoluir minha carreira como cientista de dados focando em estatísticas, bancos de dados e me aprofundando nos frameworks Python, Pandas e SKlearn. No futuro, pretendo trabalhar na área de Big Data e Machine Learning.
 
 Durante o curso da Gama desenvolvi alguns projetos.<br>
 • Uma <a href="https://github.com/srtakatsumi/API-ecom">api para e-commerce</a> <br>
@@ -13,9 +13,9 @@ Durante o curso da Gama desenvolvi alguns projetos.<br>
 
 # Who am I?
 
-I'm a data scientist and I've been working for 1 year as a junior data analyst at Riachuelo where I do data acquisition from different sources (SQL, CSV, Excel, PowerBi, SAP), processing, analysis and generation of management reports. I graduated from Gama Academy where I acquired knowledge related to Innovation and Agile Methods. Furthermore, I have 2 years of experience as an e-commerce assistant, which allowed me to have a broader view of the metrics that are important to the business in addition to the main business indicators.
+I'm a data scientist, graduated from the Gama Academy in Innovation and Agile Methods. I work as a data analyst for more than 1 year, where I do data acquisition from different sources (SQL, CSV, Excel, PowerBi, SAP), processing, analysis and generation of management reports.I also have 2 years of experience as an e-commerce assistant, which allowed me to have a broader view of the metrics that are important to the business beyond the main indicators.
 
-Today I am looking to evolve my career in the data analysis area with some skills related to statistics, databases and delving into Python, Pandas and SKlearn frameworks. I intend to start working in the area of big data and machine learning in the future.
+Today, I'm looking to evolve my career as a data scientist focusing on statistics, databases and delving deeper into Python, Pandas and SKlearn frameworks. In the future, I intend to work in the area of Big Data and Machine Learning.
 
 
 During the course of Gama I developed some projects. <br>
