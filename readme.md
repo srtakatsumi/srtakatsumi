@@ -13,7 +13,7 @@ Durante o curso da Gama desenvolvi alguns projetos.<br>
 
 # Who am I?
 
-I'm a data analist, graduated from the Gama Academy in Full Stack. I work as a data analyst for more than 1 year, where I do data acquisition from different sources (SQL, CSV, Excel, PowerBi, SAP), processing, analysis and generation of management reports.I also have 2 years of experience as an e-commerce assistant, which allowed me to have a broader view of the metrics that are important to the business beyond the main indicators.
+I'm a data analyst, graduated from the Gama Academy in Full Stack. I work as a data analyst for more than 1 year, where I do data acquisition from different sources (SQL, CSV, Excel, PowerBi, SAP), processing, analysis and generation of management reports.I also have 2 years of experience as an e-commerce assistant, which allowed me to have a broader view of the metrics that are important to the business beyond the main indicators.
 
 Today, I'm looking to evolve my career as a data scientist focusing on statistics, databases and delving deeper into Python, Pandas and SKlearn frameworks. In the future, I intend to work in the area of Big Data and Machine Learning.
 
